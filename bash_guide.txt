@@ -1,2 +1,2 @@
 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
-git remote set-url origin https://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@github.com/CDisk12/CIT142G.git
+git remote set-url origin https://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@github.com/CDisk12/CIT142G.git
